@@ -1,9 +1,4 @@
 # Adventure-Works
-The Situtation -
-
-You’ve just been hired as a Business Intelligence Analyst by AdventureWorks*, a global 
-manufacturing company that produces cycling equipment and accessories
-
 The Brief -
 
 The management team needs a way to track KPIs (sales, revenue, profit, returns), compare 
